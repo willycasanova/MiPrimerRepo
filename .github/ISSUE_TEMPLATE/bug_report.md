@@ -1,3 +1,5 @@
+---
+
 name: "🐛 Bug Report"
 
 about: "Reportar un error para ayudarnos a mejorar el proyecto."
@@ -45,3 +47,4 @@ Si es posible, añade capturas de pantalla o registros de errores.
 ### Información adicional
 
 Cualquier otra información relevante.
+---
