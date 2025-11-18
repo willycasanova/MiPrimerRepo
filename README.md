@@ -7,4 +7,6 @@ un commit desde github
 
 una actualizacion mas
 
+segunda practica desde developer02
+
 cambios desde mi rama local llamada developer01
